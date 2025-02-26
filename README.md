@@ -17,17 +17,17 @@
   <p align="left">
 Generates a color palette image from my `Flutter` hexcolors for the README.md of my projects
 
-## Requirements
+### Requirements
 
 - `pillow`
 
-## run scrip examples
+### run scrip examples
 
 ```sh
 python3 color_palette.py 0xFF793e25 0xFF935f46 0xFFbf793d 0xFFf6bd88 0xFF6D6A4B 0xFFaaa27e 0xFF915d52 0xFFf8fdf9
 ```
 
-## Example
+### Example
 
 <img src="images/colorPalette.png" alt="icons" width="65%" height="100%">
 
