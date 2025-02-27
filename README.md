@@ -57,10 +57,10 @@ python3  python3 final_layout.py
 
 <img src="images/finalLayout.png" alt="icons" width="65%" height="100%">
 
-## **Sources**
+### Sources
 
-[Login Layout Inspo](https://github.com/gerfagerfa/login_and_signup)
-[Images](https://www.marigonasuli.com/)
+- [Login Layout Inspo](https://github.com/gerfagerfa/login_and_signup)
+- [Images](https://www.marigonasuli.com/)
 
 [bloc]: https://img.shields.io/badge/Bloc-8B0000.svg?style=for-the-badge&logo=bloc&logoColor=white
 [bloc-url]: https://pub.dev/packages/bloc
