@@ -47,8 +47,6 @@ To create the layout image, you must name your images as follows:
 
 - `3_1.png`, `3_2.png`, `3_3.png`, ...
 
-...
-
 The images must be in the **same folder** as your script.
 
 ```sh
