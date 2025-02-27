@@ -29,7 +29,7 @@ python3 color_palette.py 0xFF793e25 0xFF935f46 0xFFbf793d 0xFFf6bd88 0xFF6D6A4B 
 
 ### Example
 
-<!-- <img src="images/colorPalette.png" alt="icons" width="65%" height="100%"> -->
+<img src="images/colorPalette.png" alt="icons" width="65%" height="100%">
 
 ### run scrip examples to generate final layout image
 
