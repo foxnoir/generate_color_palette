@@ -55,7 +55,7 @@ python3  python3 final_layout.py
 
 ### Example
 
-<img src="images/finalLayout.png" alt="icons" width="65%" height="100%">
+<!-- <img src="images/finalLayout.png" alt="icons" width="65%" height="100%"> -->
 
 ## **Sources**
 
