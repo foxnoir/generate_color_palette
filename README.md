@@ -21,7 +21,7 @@ Generates a color palette image from my `Flutter` hexcolors for the README.md of
 
 - `pillow`
 
-### run scrip examples
+### run scrip examples to generate color pallete
 
 ```sh
 python3 color_palette.py 0xFF793e25 0xFF935f46 0xFFbf793d 0xFFf6bd88 0xFF6D6A4B 0xFFaaa27e 0xFF915d52 0xFFf8fdf9
@@ -30,6 +30,34 @@ python3 color_palette.py 0xFF793e25 0xFF935f46 0xFFbf793d 0xFFf6bd88 0xFF6D6A4B 
 ### Example
 
 <img src="images/colorPalette.png" alt="icons" width="65%" height="100%">
+
+### run scrip examples to generate final layout image
+
+To create the layout image, you must name your images as follows:
+
+#### First row:
+
+- `1_1.png`, `1_2.png`, `1_3.png`, ...
+
+#### Second row:
+
+- `2_1.png`, `2_2.png`, `2_3.png`, ...
+
+#### Third row:
+
+- `3_1.png`, `3_2.png`, `3_3.png`, ...
+
+...
+
+The images must be in the **same folder** as your script.
+
+```sh
+python3  python3 final_layout.py
+```
+
+### Example
+
+<img src="images/finalLayout.png" alt="icons" width="65%" height="100%">
 
 [bloc]: https://img.shields.io/badge/Bloc-8B0000.svg?style=for-the-badge&logo=bloc&logoColor=white
 [bloc-url]: https://pub.dev/packages/bloc
