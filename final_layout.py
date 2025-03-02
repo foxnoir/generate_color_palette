@@ -2,8 +2,6 @@ from PIL import Image
 import os
 import re
 
-# test
-
 
 def get_images_by_row():
     images = {}
