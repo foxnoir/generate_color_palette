@@ -1,0 +1,38 @@
+[
+  {
+    "image": "flutter",
+    "file": "flutter.svg",
+    "url": "flutter-url",
+    "href": "https://flutter.dev/"
+  },
+  {
+    "image": "python",
+    "file": "python.svg",
+    "url": "python-url",
+    "href": "https://www.python.org/"
+  },
+  {
+    "image": "pillow",
+    "file": "pillow.svg",
+    "url": "pillow-url",
+    "href": "https://python-pillow.org/"
+  },
+  {
+    "image": "instagram-shield",
+    "file": "instagram.svg",
+    "url": "instagram-url",
+    "href": "https://www.instagram.com/codeincouture/"
+  },
+  {
+    "image": "linkedin-shield",
+    "file": "linkedin.svg",
+    "url": "linkedin-url",
+    "href": "https://www.linkedin.com/in/tanja-polz-5636401a5/"
+  },
+  {
+    "image": "x-shield",
+    "file": "x.svg",
+    "url": "x-url",
+    "href": "https://twitter.com/_foxnoir_?lang=de"
+  }
+]
